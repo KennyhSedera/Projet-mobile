@@ -27,23 +27,3 @@ Ce projet est une **application mobile de gestion des employés** qui permet :
 | Gestion d’état | React Context |
 | Navigation | React Navigation |
 
----
-
-## 📁 Structure du projet
-
-Projet‑mobile/
-├── backend/ # API Node.js
-│ ├── controllers/
-│ ├── models/
-│ ├── routes/
-│ ├── app.js
-│ └── package.json
-├── mobile/ # React Native app
-│ ├── src/
-│ │ ├── components/
-│ │ ├── screens/
-│ │ ├── navigation/
-│ │ ├── services/
-│ │ └── App.js
-│ └── package.json
-└── README.md
